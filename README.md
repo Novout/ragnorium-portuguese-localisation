@@ -15,7 +15,7 @@
 > A tradução está no estágio inicial de desenvolvimento.
 > Até o momento, não se possui workshop na steam, sendo necessário executar os seguintes passos:
 
-1. Copie o arquivo `English.xml` que está neste repositório em `src/{versão-do-jogo}/English.xml` ou [clique aqui e baixe o source-code](https://github.com/Novout/ragnorium-portuguese-localisation/releases), navegando até chegar ao mesmo caminho em `src/{versão-do-jogo}/English.xml`
+1. Copie o arquivo `English.xml` que está neste repositório em `src/{versão-do-jogo}/English.xml` ou [clique aqui e baixe o source-code](https://github.com/Novout/ragnorium-portuguese-localisation/releases), baixando o `English.xml`
 
 2. Navegue pelos arquivos locais do jogo na Steam
 
