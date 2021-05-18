@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <languages>
 <base>
-<string name="METAGAME_MAINMENU_NEWGAMESTORY">Hermes-1 é uma estação espacial de colonização colossal capaz de criar vida e desenvolver tecnologia, sendo considerada uma das criações mais notáveis ​​que a humanidade já criou.@paragraphVocê é um dos comandantes a bordo do Hermes-1, encarregado de uma missão crítica para colonizar um planeta e criar um novo capítulo na história da humanidade.@paragraphUse os recursos limitados da estação da maneira mais eficiente possível e implante navios de colonização menores para criar condições de sobrevivência ideais para ao futuro da humanidade.</string>
+<string name="METAGAME_MAINMENU_NEWGAMESTORY">Hermes-1 é uma estação espacial de colonização colossal capaz de criar vida e desenvolver tecnologia, sendo considerada uma das criações mais notáveis ​​que a humanidade já criou.@paragraphVocê é um dos comandantes a bordo do Hermes-1, encarregado de uma missão crítica para colonizar um planeta e criar um novo capítulo na história da humanidade.@paragraphUse os recursos limitados da estação da maneira mais eficiente possível e implante navios de colonização menores para criar condições de sobrevivência ideais para o futuro da humanidade.</string>
 <string name="INFORMATION_CENTER_TIP_DIARARHEA">A diarréia causa danos quando estiver defecando. [b] Considere ferver água suja.[/b]</string>
 <string name="METAGAME_MAINMENU_ACTIVATE SYSTEM">ODISSEIA</string>
 <string name="METAGAME_MAINMENU_ACTIVATE SYSTEM_TUTORIAL">ZENLIKE ODISSEIA + TUTORIAL</string>
@@ -3570,7 +3570,7 @@ Vento Leve</string>
 <string name="INGAME_SHARED_SAPLING_GROW">Crescente...</string>
 <string name="METAGAME_SHARED_BADLAUNCH_DANGER">If you fail to start the mission before this date then this launch will be skipped. This has a negative effect on your colony.</string>
 <string name="METAGAME_SHARED_FINAL_LAUNCH">In a situation where you have a Final Mission and you fail to launch you will be automatically moved into the colony without a new colonization ship.</string>
-<string name="INGAME_UI_LANDING_INITIAL_POSITION">Durante o lançamento da colonização inicial, você pode [b]escolher uma localização[/b] enquanto os módulos estão sendo inicializados. [i][color=#ffffbb]Todos os lançamentos futuros usarão o mesmo local de pouso![/color][/i]</string>
+<string name="INGAME_UI_LANDING_INITIAL_POSITION">Durante o lançamento da colonização inicial, você pode [b]escolher uma localização[/b] enquanto os módulos estão sendo inicializados. [i][color=#ffffbb]Todos os lançamentos futuros irão usar o mesmo local de pouso![/color][/i]</string>
 <string name="INGAME_UI_COLONIST_TOOL_TUTORIAL">One of your Colonists has created a Tool. Colonist Specialization dictates what Tools colonists can use.</string>
 <string name="TUTORIAL_METAGAME_TUTORIAL0">Bem-vindo a bordo do Comandante Hermes-1! Você deve fazer um treinamento básico para obter um entendimento completo da interface.</string>
 <string name="TUTORIAL_METAGAME_TUTORIAL1">To start your training, please select [b]SPACESHIP BUILDER[/b] and construct your first Navio de Colonização using the 3D printer.</string>
