@@ -8,6 +8,8 @@
   </a>
 </p>
 
+> Esta tradução NÃO É OFICIAL.
+
 ### Instalação
 
 > A tradução está no estágio inicial de desenvolvimento.
@@ -34,5 +36,5 @@ Deseja contribuir para a tradução? Siga os seguintes passos:
 3. Crie um branch com a nova feature `git checkout -b feature/nome-da-feature`
 4. Após acrescentar o conteúdo, execute `git add -A`
 5. Realize o Commit `git commit -m 'Adicionado o conteudo'`
-6. Realize o Push no Branch `git push origin feature/featureBraba`
+6. Realize o Push no Branch `git push origin feature/nome-da-feature`
 7. Abra um Pull Request
