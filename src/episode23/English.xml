@@ -1814,8 +1814,7 @@
 <string name="INGAME_TOOLTIP_SKINNED">ESFOLADO</string>
 <string name="INFORMATION_CENTER_TIP_CROW_THEFT">Corvos estão roubando sua comida, construa recipientes ou obtêm espantalhos!</string>
 <string name="INGAME_SHARED_CLEAR WEATHER">Céu Limpo</string>
-<string name="INGAME_SHARED_LIGHT WIND">
-Vento Leve</string>
+<string name="INGAME_SHARED_LIGHT WIND">Vento Leve</string>
 <string name="INGAME_SHARED_RAIN">Chuva</string>
 <string name="INGAME_SHARED_WINDY WEATHER">Vento Pesado</string>
 <string name="INGAME_TOOLTIP_ONCYCLE">NO CICLO</string>
