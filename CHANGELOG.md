@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## 0.3.0
+
+- Conditions
+- Initial items
+- Typos
 ## 0.2.0
 
 - HUD
