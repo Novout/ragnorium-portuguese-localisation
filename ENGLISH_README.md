@@ -5,9 +5,11 @@
 
 <p align="center">
   <a href="https://store.steampowered.com/app/474020/Ragnorium/">
-    <img src="./.github/ragnorium_logo.png" alt="Logo do jogo Ragnorium" width="60%">
+    <img src="./.github/ragnorium_logo.png" alt="Ragnorium game" width="60%">
   </a>
 </p>
+
+> This translation is NOT OFFICIAL.
 
 ### Installation
 
